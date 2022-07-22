@@ -1,7 +1,7 @@
 # $NICE Token Nedir ?
  $NICE token, Giveth Organizasyonuna doğrudan bağışları teşvik etmek amacıyla 2022'nin 3. çeyreğinde piyasaya sürüldü. <br/>
-Giveth Dapp kullanıcıları belirli tokenlerle [Giveth Projesi'ne](https://giveth.io/project/the-giveth-community-of-makers) bağış yaptıklarında karşılığında $NICE token kazanacaklar. <br/> <br/>
-Aşağıdaki tokenleri, Giveth'e bağışlandığınızda $NICE token kazanmak için hak kazanmış olacaksınız:
+Giveth Dapp kullanıcıları belirli tokenlerle [Giveth Projesi'ne](https://giveth.io/project/the-giveth-community-of-makers) bağış yaptıklarında bunun karşılığında $NICE token kazanacaklar. <br/> <br/>
+Aşağıdaki tokenleri, Giveth'e bağışlandığınızda $NICE token almaya hak kazanmış olacaksınız:
 
 - [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) (Ana ağ)  <br/> <br/>
 - xDAI (Gnosis Zinciri) <br/> <br/>
@@ -25,7 +25,7 @@ Gökyüzünun sınırlarındaki $NICE ve Giveth ekibi aktif olarak bu yeni token
 
 ## Fonların Kullanımı <br/>
 
-Giveth, elde edilen fonları, Giveth ve GIVeconomy'nin istikrarını ve büyümesini sağlamak için yarayacak bir strateji için kullanacak. <br/>
+Giveth, elde edilen fonları, Giveth ve GIVeconomy'nin istikrarını ve büyümesini sağlamaya yarayacak bir strateji için kullanacak. <br/>
 Alınan bağışların dolar değerinin %50'si GIV'i geri almak için kullanılacaktır. Geri kalan %50, geri alınan GIV ile likit bir havuz çifti oluşturmak için kullanılacaktır.
 
 Bir örneğe bakalım: <br/> 
