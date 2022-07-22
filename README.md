@@ -13,7 +13,7 @@ Hak kazanan bağışlar, [GIVback'lerin](https://docs.giveth.io/giveconomy/givba
 
 **$NICE Token Faydaları** <br/> 
 
-$NICE tokenin birçok özelliğinden ilki, onu Giveth swag dükkanında(bir nevi birmilyoncu) bir şeyler almak için kullanılması olacaktır. Giveth'e destek olmak için Giveth markalı kıyafetleri ve daha fazlasını kapınıza kadar getirtebilirsiniz. <br/>
+$NICE tokenin birçok özelliğinden ilki, onu [Giveth swag dükkanında](https://swag.giveth.io/)(bir nevi birmilyoncu) bir şeyler almak için kullanılması olacaktır. Giveth'e destek olmak için Giveth markalı kıyafetleri ve daha fazlasını kapınıza kadar getirtebilirsiniz. <br/>
 
 Yoldaki diğer bazı heyecan verici yararlar şunlar:
 
